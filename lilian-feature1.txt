@@ -3,3 +3,4 @@ Second line of text.
 CHANGE1
 CHANGE2
 CHANGE
+CHANGE

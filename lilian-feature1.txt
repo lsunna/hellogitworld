@@ -1,1 +1,2 @@
 This is the first hour of class.
+Second line of text.
